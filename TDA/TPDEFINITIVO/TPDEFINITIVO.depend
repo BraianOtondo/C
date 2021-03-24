@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1571658789 source:c:\users\braian\desktop\tpdefinitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"universidad.h"
+
+1571550720 source:c:\users\braian\desktop\tpdefinitivo\integrante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"integrante.h"
+
+1571634825 c:\users\braian\desktop\tpdefinitivo\integrante.h
+
+1571658789 source:c:\users\braian\desktop\tpdefinitivo\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+
+1571657860 c:\users\braian\desktop\tpdefinitivo\materia.h
+	"integrante.h"
+
+1571634846 source:c:\users\braian\desktop\tpdefinitivo\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571563378 c:\users\braian\desktop\tpdefinitivo\carrera.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571656399 source:c:\users\braian\desktop\tpdefinitivo\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571562466 c:\users\braian\desktop\tpdefinitivo\departamento.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571658992 source:c:\users\braian\desktop\tpdefinitivo\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571628074 c:\users\braian\desktop\tpdefinitivo\universidad.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571634846 source:d:\c 2018\tp\tpdefinitivo\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571634825 d:\c 2018\tp\tpdefinitivo\integrante.h
+
+1571657860 d:\c 2018\tp\tpdefinitivo\materia.h
+	"integrante.h"
+
+1571563378 d:\c 2018\tp\tpdefinitivo\carrera.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571656399 source:d:\c 2018\tp\tpdefinitivo\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571562466 d:\c 2018\tp\tpdefinitivo\departamento.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571550720 source:d:\c 2018\tp\tpdefinitivo\integrante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"integrante.h"
+
+1571658789 source:d:\c 2018\tp\tpdefinitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"universidad.h"
+
+1571628074 d:\c 2018\tp\tpdefinitivo\universidad.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571658789 source:d:\c 2018\tp\tpdefinitivo\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+
+1571658992 source:d:\c 2018\tp\tpdefinitivo\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
