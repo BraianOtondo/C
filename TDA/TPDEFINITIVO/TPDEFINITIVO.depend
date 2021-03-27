@@ -145,3 +145,76 @@
 	"departamento.h"
 	"universidad.h"
 
+1571634846 source:e:\repositorios\c\tda\tpdefinitivo\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571634825 e:\repositorios\c\tda\tpdefinitivo\integrante.h
+
+1571657860 e:\repositorios\c\tda\tpdefinitivo\materia.h
+	"integrante.h"
+
+1571563378 e:\repositorios\c\tda\tpdefinitivo\carrera.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571656399 source:e:\repositorios\c\tda\tpdefinitivo\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571562466 e:\repositorios\c\tda\tpdefinitivo\departamento.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+
+1571550720 source:e:\repositorios\c\tda\tpdefinitivo\integrante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"integrante.h"
+
+1571658789 source:e:\repositorios\c\tda\tpdefinitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"universidad.h"
+
+1571628074 e:\repositorios\c\tda\tpdefinitivo\universidad.h
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571658789 source:e:\repositorios\c\tda\tpdefinitivo\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+
+1571658992 source:e:\repositorios\c\tda\tpdefinitivo\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"integrante.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+

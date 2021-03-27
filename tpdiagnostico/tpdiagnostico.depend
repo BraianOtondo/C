@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1616815351 source:d:\ayed\primertrabajo\tpdiagnostico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"sucursal.h"
+
+1616815552 source:d:\ayed\primertrabajo\tpdiagnostico\sucursal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"sucursal.h"
+
+1616796118 d:\ayed\primertrabajo\tpdiagnostico\sucursal.h
+	"sucursal.h"
+
+1616786956 d:\ayed\primertrabajo\tpdiagnostico\sucursal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"sucursal.h"
+
