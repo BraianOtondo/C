@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1574695613 source:d:\programación\listas\struct\libro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"libro.h"
+
+1576230809 source:d:\programación\listas\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"libro.h"
+
+1576225562 d:\programación\listas\struct\lista.h
+	"libro.h"
+
+1574691420 d:\programación\listas\struct\libro.h
+
+1576225562 source:d:\programación\listas\struct\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1574695613 source:e:\repositorios\c\listas\struct\libro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"libro.h"
+
+1576225562 e:\repositorios\c\listas\struct\lista.h
+	"libro.h"
+
+1574691420 e:\repositorios\c\listas\struct\libro.h
+
+1576225562 source:e:\repositorios\c\listas\struct\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1576230809 source:e:\repositorios\c\listas\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"libro.h"
+

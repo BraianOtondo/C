@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1575159791 source:/home/juan/Escritorio/C/Practica30-11/ListaEnC.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"ListaEnC.h"
+
+1575138163 /home/juan/Escritorio/C/Practica30-11/persona.h
+
+1575140271 /home/juan/Escritorio/C/Practica30-11/ListaEnC.h
+	"persona.h"
+
+1575160113 source:/home/juan/Escritorio/C/Practica30-11/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ListaEnC.h"
+	"persona.h"
+	"Pila.h"
+	"Cola.h"
+
+1575141421 source:/home/juan/Escritorio/C/Practica30-11/persona.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ListaEnC.h"
+	"persona.h"
+
+1575159387 source:/home/juan/Escritorio/C/Practica30-11/Cola.c
+	<stdlib.h>
+	<stdio.h>
+	"Cola.h"
+
+1575159330 source:/home/juan/Escritorio/C/Practica30-11/Pila.c
+	<stdlib.h>
+	<stdio.h>
+	"Pila.h"
+
+1575143296 /home/juan/Escritorio/C/Practica30-11/Pila.h
+	<stdlib.h>
+	"ListaEnC.h"
+
+1575159330 /home/juan/Escritorio/C/Practica30-11/Cola.h
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnC.h"
+
+1575159791 source:d:\programación\listas\practica\practica30-11\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"ListaEnC.h"
+
+1575138163 d:\programación\listas\practica\practica30-11\persona.h
+
+1575140271 d:\programación\listas\practica\practica30-11\listaenc.h
+	"persona.h"
+
+1575238375 source:d:\programación\listas\practica\practica30-11\persona.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ListaEnC.h"
+	"persona.h"
+
+1575159330 source:d:\programación\listas\practica\practica30-11\pila.c
+	<stdlib.h>
+	<stdio.h>
+	"Pila.h"
+
+1575143296 d:\programación\listas\practica\practica30-11\pila.h
+	<stdlib.h>
+	"ListaEnC.h"
+
+1575239081 source:d:\programación\listas\practica\practica30-11\cola.c
+	<stdlib.h>
+	<stdio.h>
+	"Cola.h"
+	"ListaEnC.c"
+	"Pila.h"
+	"persona.h"
+
+1575159330 d:\programación\listas\practica\practica30-11\cola.h
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnC.h"
+
+1575160269 source:d:\programación\listas\practica\practica30-11\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ListaEnC.h"
+	"persona.h"
+	"Pila.h"
+	"Cola.h"
+
+1575159791 d:\programación\listas\practica\practica30-11\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"ListaEnC.h"
+
+1575239081 source:e:\repositorios\c\listas\practica\practica30-11\cola.c
+	<stdlib.h>
+	<stdio.h>
+	"Cola.h"
+	"ListaEnC.c"
+	"Pila.h"
+	"persona.h"
+
+1575159330 e:\repositorios\c\listas\practica\practica30-11\cola.h
+	<stdlib.h>
+	<stdio.h>
+	"ListaEnC.h"
+
+1575140271 e:\repositorios\c\listas\practica\practica30-11\listaenc.h
+	"persona.h"
+
+1575138163 e:\repositorios\c\listas\practica\practica30-11\persona.h
+
+1575159791 e:\repositorios\c\listas\practica\practica30-11\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"ListaEnC.h"
+
+1575143296 e:\repositorios\c\listas\practica\practica30-11\pila.h
+	<stdlib.h>
+	"ListaEnC.h"
+
+1575159791 source:e:\repositorios\c\listas\practica\practica30-11\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"ListaEnC.h"
+
+1575160269 source:e:\repositorios\c\listas\practica\practica30-11\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ListaEnC.h"
+	"persona.h"
+	"Pila.h"
+	"Cola.h"
+
+1575238375 source:e:\repositorios\c\listas\practica\practica30-11\persona.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ListaEnC.h"
+	"persona.h"
+
+1575159330 source:e:\repositorios\c\listas\practica\practica30-11\pila.c
+	<stdlib.h>
+	<stdio.h>
+	"Pila.h"
+
