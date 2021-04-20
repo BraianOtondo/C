@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575761236 source:c:\users\braian\desktop\examenes\2\struct y strtok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
