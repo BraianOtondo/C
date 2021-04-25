@@ -22,13 +22,13 @@ int main() {
 
 
     //MUESTRO LO QUE HAY EN LA POSICION 2, ES DECIR EL 5
-    int i;
+    int i;tam;
     obtenerElemento(miLista, &i, 2);
     printf("El elemento en la posicion  2 es: %d\n", i);
 
 
     printf("Probamos el obtener tamaño \n");
-    printf("Tamaño: %d", obtenerTamanio(miLista));
+    printf("Tamaño: %d", obtenerTamanio(miLista,&tam));
 
 
     printf("Esta vacia? \n");
