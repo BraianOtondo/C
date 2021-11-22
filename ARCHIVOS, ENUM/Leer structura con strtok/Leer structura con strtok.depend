@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573949621 source:c:\users\braian\desktop\leer structura con strtok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575584462 source:d:\programación\archivos, enum\leer structura con strtok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573926080 source:c:\users\braian\desktop\leer y añadir a struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

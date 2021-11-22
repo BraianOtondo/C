@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573649970 source:d:\programación\archivos\escritura de caracter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

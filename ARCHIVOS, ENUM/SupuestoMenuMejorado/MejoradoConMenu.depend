@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569255265 source:c:\users\braian\desktop\nueva carpeta\main.c
+	<stdio.h>
+	<string.h>
+
+1569255265 source:c:\users\braian\desktop\tp integrador\supuestomenumejorado\main.c
+	<stdio.h>
+	<string.h>
+
+1569255265 source:d:\programación\archivos\supuestomenumejorado\main.c
+	<stdio.h>
+	<string.h>
+

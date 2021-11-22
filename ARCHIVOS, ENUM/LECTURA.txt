@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include<string.h>
+int main()
+{
+    int contador = 0;
+FILE *archivo;
+    archivo = fopen("ventas.txt", "r");
+
+    while(!feof(archivo)){
+
+         if(!feof(archivo)){
+        char aux[100]="";
+        fgets(aux, 100, archivo);
+        if(strcmp(aux," ")==1){
+      printf("%s\n",aux);
+        contador = contador+1;
+
+        }
+
+         }
+    }
+
+    return 0;
+}

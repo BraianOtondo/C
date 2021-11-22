@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573670059 source:d:\programación\archivos\lectura con variables\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

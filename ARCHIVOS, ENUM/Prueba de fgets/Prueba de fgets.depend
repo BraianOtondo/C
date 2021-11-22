@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573847253 source:c:\users\braian\desktop\prueba de fgets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

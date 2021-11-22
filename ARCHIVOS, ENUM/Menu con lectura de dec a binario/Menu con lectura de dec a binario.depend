@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575556138 source:d:\programación\archivos, enum\menu con lectura de dec a binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

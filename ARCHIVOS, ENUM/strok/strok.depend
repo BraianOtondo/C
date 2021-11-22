@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573952462 source:c:\users\braian\desktop\strok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
